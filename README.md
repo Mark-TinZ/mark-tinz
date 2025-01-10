@@ -6,5 +6,9 @@ I am a student studying, working, developing. I am striving to become a sought-a
 - English
 
 #### Languages and Tools:
-![python](https://img.shields.io/badge/dynamic/xml?label=Python&prefix=3.5&query=%22-%22&suffix=3.&url=https%3A%2F%2Fwww.python.org%2F)
-![cpp](https://img.shields.io/badge/dynamic/xml?label=C%2B%2B&prefix=17&query=%22-%22&suffix=20&url=https%3A%2F%2Fisocpp.org%2F)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
